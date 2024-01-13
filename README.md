@@ -4,13 +4,18 @@
 |NAMA | LYDIA DIFFANI SIREGAR|
 | -------- | ------- |
 |NIM | 312010498 |
-|KELAS | TI.20.RPL-1 |
+|KELAS | TI.20.A.RPL-1 |
 
 
 
 
 
-# ***
+### Data Barang<br>
+
+
+![1](/data%20barang.PNG) 
+
+
 
 
 
