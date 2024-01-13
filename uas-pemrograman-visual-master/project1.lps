@@ -35,6 +35,8 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uLogin"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="46"/>
         <CursorPos X="16" Y="72"/>
         <UsageCount Value="87"/>
         <Loaded Value="True"/>
@@ -65,7 +67,6 @@
         <CursorPos X="53" Y="105"/>
         <UsageCount Value="80"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="uTransaksi.pas"/>
@@ -90,7 +91,6 @@
         <CursorPos X="33" Y="41"/>
         <UsageCount Value="73"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="utambahdetailtransaksi.pas"/>
@@ -112,13 +112,11 @@
         <ComponentName Value="TfrmReport"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="8"/>
         <TopLine Value="103"/>
         <CursorPos X="55" Y="119"/>
         <UsageCount Value="60"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="udatabarang.pas"/>
@@ -145,7 +143,6 @@
         <CursorPos X="30" Y="97"/>
         <UsageCount Value="57"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="utambahkategori.pas"/>
@@ -159,7 +156,6 @@
         <CursorPos X="10" Y="41"/>
         <UsageCount Value="55"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="uupdatekategori.pas"/>
@@ -172,7 +168,6 @@
         <CursorPos X="7" Y="83"/>
         <UsageCount Value="51"/>
         <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="udatamaster.pas"/>
